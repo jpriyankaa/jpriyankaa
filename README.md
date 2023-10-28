@@ -1,4 +1,5 @@
-![logo](https://github.com/jpriyankaa/jpriyankaa/blob/main/banner.png)
+![logo](![image](https://github.com/jpriyankaa/jpriyankaa/assets/149219686/fb14a2a0-fa2a-4172-84f3-69e364b858cb))
+
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

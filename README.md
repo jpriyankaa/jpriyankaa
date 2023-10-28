@@ -1,5 +1,4 @@
-![logo](![image](https://github.com/jpriyankaa/jpriyankaa/assets/149219686/fb14a2a0-fa2a-4172-84f3-69e364b858cb))
-
+![logo](https://github.com/jpriyankaa/jpriyankaa/blob/main/create%20image%20with%201280%20by%20640%20pixels%20with%20ai%20data%20science%20in%20background%20with%20a%20women%20coding%201.png)
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

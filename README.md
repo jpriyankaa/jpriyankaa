@@ -1,6 +1,6 @@
 ![logo](https://github.com/jpriyankaa/jpriyankaa/blob/main/create%20image%20with%201280%20by%20640%20pixels%20with%20ai%20data%20science%20in%20background%20with%20a%20women%20coding%201.png)
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Data Science enthusiast 😃</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 

@@ -1,4 +1,4 @@
-![logo](https://github.com/jpriyankaa/jpriyankaa/blob/main/create%20image%20with%201280%20by%20640%20pixels%20with%20ai%20data%20science%20in%20background%20with%20a%20women%20coding%201.png)
+![logo](banner-909710_1280.jpg)
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A Data Science enthusiast 😃</h3>
 

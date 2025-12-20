@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpriyankaa&label=Profile%20views&color=0e75b6&style=flat" alt="jpriyankaa" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 Learning by doing and exploring **Data Science**
 
 - ⚡ Fun fact **Everything Interests me.**
 

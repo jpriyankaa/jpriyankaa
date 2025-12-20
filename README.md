@@ -1,4 +1,3 @@
-![logo](banner-909710_1280.jpg)
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">A Data Science enthusiast 😃</h3>
 
